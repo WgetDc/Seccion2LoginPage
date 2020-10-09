@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seccion2LoginPage</string>
+    <string name="app_email">Ingrese su correo</string>
+    <string name="app_password">Ingrese su contraseña</string>
+    <string name="app_ingresar">Ingresar</string>
+    <string name="app_forgotPassword">¿Olvido su contraseña?</string>
+</resources>
