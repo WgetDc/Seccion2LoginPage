@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#CD4247</color>
     <color name="colorAccent">#FBA3A6</color>
     <color name="colorWhite">#FFFFFF</color>
+
+    <color name="halloweenPrimary">#F4831B</color>
+    <color name="halloweenText">#1C1C1C</color>
+    <color name="halloweenSecondary">#902EBB</color>
 </resources>
